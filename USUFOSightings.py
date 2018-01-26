@@ -37,4 +37,4 @@ layout = dict(
 )
 
 fig = dict(data=data, layout=layout)
-plotly.offline.plot(fig)
+plotly.offline.plot(fig, filename="UFO_Choropleth_Plot.html")
