@@ -3,6 +3,7 @@ import pandas as pd
 
 df = pd.read_csv('UFOSightingsData.csv')
 
+#GIT COMMENT
 states = ['al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga',
           'hi', 'id', 'il', 'in', 'ia', 'ks', 'ky', 'la', 'me', 'md',
           'ma', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj',
